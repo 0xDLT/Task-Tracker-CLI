@@ -8,11 +8,12 @@ Cross-platform and efficient, the Task Tracker CLI provides a straightforward wa
 
 ## How does it work
 
-### First install PHP on your machine 
+### Open your cmd or terminal 
+
+### First check if PHP installed on your machine 
 ```shell
 php -version
 ```
-### Open your cmd or terminal 
 
 ### Change dir to the Folder
 ```shell
