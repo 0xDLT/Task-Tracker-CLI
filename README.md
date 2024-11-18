@@ -12,14 +12,14 @@ Cross-platform and efficient, the Task Tracker CLI provides a straightforward wa
 ```shell
 php -version
 ```
+### Open your cmd or terminal 
 
 ### Change dir to the Folder
 ```shell
 cd Task-Tracker-CLI/src/command
 ```
 
-### Open your cmd or terminal 
-Put this command for help
+### Put this command for help
 ```shell
 php task.php 
 ```
