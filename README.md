@@ -19,7 +19,7 @@ Put this command for help
 php task.php 
 ```
 
-you may use for exampile
+For example, you may use...
 ```shell
 php task.php add
 ```
